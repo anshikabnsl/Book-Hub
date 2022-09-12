@@ -1,4 +1,4 @@
-# Full Stack E-Commerce Project 
+
 
 
 ## Available Scripts
