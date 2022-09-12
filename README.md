@@ -1,4 +1,4 @@
-# Full Stack E-Commerce Project using MERN
+# Full Stack E-Commerce Project using 
 
 Live Link - [Bookztron](https://bookztron-dev-branch.netlify.app/)
 
